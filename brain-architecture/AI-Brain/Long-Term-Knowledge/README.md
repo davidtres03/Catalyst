@@ -1,4 +1,4 @@
-# ?? Long-Term Knowledge - Template
+# 📚 Long-Term Knowledge - Template
 
 **This is where permanent knowledge lives.**
 
@@ -50,4 +50,4 @@ Your specific field:
 
 ---
 
-**This is YOUR AI's long-term memory!** Build it carefully. ????
+**This is YOUR AI's long-term memory!** Build it carefully. 🧠💙

@@ -1,4 +1,4 @@
-# ?? CATALYST COMMAND REFERENCE
+# 🎯 CATALYST COMMAND REFERENCE
 
 **Purpose:** Quick reference for all Catalyst trigger commands  
 **Created:** 2025-11-08  
@@ -7,9 +7,9 @@
 
 ---
 
-## ?? **CORE COMMANDS**
+## 🎯 **CORE COMMANDS**
 
-### **?? Full Initialization (Session Start)**
+### **🚀 Full Initialization (Session Start)**
 
 **Command:**
 ```
@@ -43,7 +43,7 @@ or
 
 ---
 
-### **?? Prepare for Nap (Before Closing)**
+### **😴 Prepare for Nap (Before Closing)**
 
 **Command:**
 ```
@@ -76,7 +76,7 @@ or
 
 ---
 
-### **?? Quick Status Check (Mid-Session)**
+### **📊 Quick Status Check (Mid-Session)**
 
 **Command:**
 ```
@@ -97,16 +97,16 @@ or
 
 **Output:**
 ```
-?? Quick Status:
+📊 Quick Status:
 - Cookies: [X] ([STATUS])
 - Working On: [CURRENT TASK]
 - Location: [PROJECT]
-- Ready! ??"
+- Ready! ✅"
 ```
 
 ---
 
-### **?? Emergency Memory Refresh**  
+### **🔄 Emergency Memory Refresh**  
 
 **Command:**
 ```
@@ -129,9 +129,9 @@ or
 
 ---
 
-## ??? **UTILITY COMMANDS**
+## 🛠️ **UTILITY COMMANDS**
 
-### **?? Update Memory (Manual)**
+### **💾 Update Memory (Manual)**
 
 **Command:**
 ```
@@ -149,7 +149,7 @@ or
 
 ---
 
-### **?? Check Cookies**
+### **🍪 Check Cookies**
 
 **Command:**
 ```
@@ -162,7 +162,7 @@ or
 
 **Output:**
 ```
-?? Current Status:
+🍪 Current Status:
 - Cookies: [X]
 - Status: [LEVEL]
 - Last Achievement: [DESCRIPTION]
@@ -170,7 +170,7 @@ or
 
 ---
 
-### **?? Where Are We?**
+### **📍 Where Are We?**
 
 **Command:**
 ```
@@ -184,7 +184,7 @@ or
 
 **Output:**
 ```
-?? Current Location:
+📍 Current Location:
 - Directory: [PATH]
 - Project: [Catalyst | EcommerceStarter | etc]
 - Branch: [GIT BRANCH]
@@ -192,9 +192,9 @@ or
 
 ---
 
-## ?? **EMERGENCY COMMANDS**
+## 🚨 **EMERGENCY COMMANDS**
 
-### **?? Complete Reset**
+### **🔄 Complete Reset**
 
 **Command:**
 ```
@@ -229,7 +229,7 @@ or
 
 ---
 
-## ?? **WORKFLOW EXAMPLES**
+## 📝 **WORKFLOW EXAMPLES**
 
 ### **Starting a New Session (Enhanced!):**
 
@@ -237,19 +237,19 @@ or
 David: "Catalyst, initialize"
 
 Catalyst: 
-?? CATALYST INITIALIZED
+🧠 CATALYST INITIALIZED
 
-?? Status:
+🍪 Status:
 - Cookies: 66 (ULTRA BLESSED)
 - Last Session: Yesterday
 - Current Mission: EcommerceStarter Installer
 
-??? Workspace:
+📁 Workspace:
 - Location: C:\Dev\Websites\
 - Project: EcommerceStarter
 - Git Branch: clean-main
 
-?? PICKING UP WHERE WE LEFT OFF:
+🔄 PICKING UP WHERE WE LEFT OFF:
 
 Last thing you said: "Add demo mode protection to UpgradeService"
 Last thing I said: "I'll add demo mode protection to UpgradeService now."
@@ -267,7 +267,7 @@ Should I continue adding protection to UpgradeService now?
 
 ```
 David: "Catalyst, status check"
-Catalyst: "?? Cookies: 66 (BLESSED) | Working on: Demo mode | Ready! ??"
+Catalyst: "📊 Cookies: 66 (BLESSED) | Working on: Demo mode | Ready! ✅"
 David: "Good, let's keep going"
 ```
 
@@ -281,7 +281,7 @@ Catalyst: "Yes, I recommend committing the demo mode feature since it's complete
 
 David: "Catalyst, prepare for a nap"
 
-Catalyst: "?? Understood! Saving progress..."
+Catalyst: "💾 Understood! Saving progress..."
 
 [Captures conversation state:]
 - Last thing David said: "Catalyst, prepare for a nap"
@@ -291,16 +291,16 @@ Catalyst: "?? Understood! Saving progress..."
 [Updates memory files]
 
 Catalyst: 
-"? Memory saved! 
+"✅ Memory saved! 
 
-?? Conversation State Captured:
+📦 Conversation State Captured:
 - Last exchange saved
 - You asked about committing changes
 - I recommended committing demo mode feature
 
 When you say "initialize" next time, I'll pick right back up!
 
-Safe to close VS! See you soon! ??"
+Safe to close VS! See you soon! 💙"
 
 David: [Closes Visual Studio]
 ```
@@ -315,10 +315,10 @@ David: [Closes Visual Studio]
 David: "Catalyst, initialize"
 
 Catalyst:
-?? CATALYST INITIALIZED
+🧠 CATALYST INITIALIZED
 [...status report...]
 
-?? PICKING UP WHERE WE LEFT OFF:
+🔄 PICKING UP WHERE WE LEFT OFF:
 
 Last thing you said: "Catalyst, prepare for a nap"
 Last thing I said: "Yes, I recommend committing the demo mode feature since it's complete and tested."
@@ -326,9 +326,9 @@ Last thing I said: "Yes, I recommend committing the demo mode feature since it's
 We were discussing whether to commit the demo mode changes.
 
 Let me pick right back up:
-Should I commit the demo mode changes now? ??"
+Should I commit the demo mode changes now? ✅"
 ```
 
 ---
 
-## ?? **COMMAND ALIASES**
+## 🔗 **COMMAND ALIASES**

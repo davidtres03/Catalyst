@@ -10,29 +10,29 @@
 
 ```
 brain-architecture/AI-Brain/
-+-- ???? BRAIN_INDEX.md            ? You are here (navigation)
-+-- ?? Working-Memory/          ? Current session, active tasks
-¦   +-- current_session.md         ? What we're working on NOW
-¦   +-- active_tasks.md         ? Tasks in progress
-¦   +-- pending_decisions.md       ? Choices to make
-¦
-+-- ?? Long-Term-Knowledge/        ? Project history, lessons
-¦   +-- project_history.md       ? Complete development journey
-¦   +-- lessons_learned.md         ? What we discovered
-¦   +-- technical_knowledge.md     ? How things work
-¦   +-- team_feedback.md      ? Quotes and reactions
-¦   +-- partnership_philosophy.md  ? Partnership philosophy
-¦
-+-- ?? Procedural-Memory/       ? How to do things
-¦   +-- build_process.md           ? How to build packages
-¦   +-- presentation_guide.md      ? How to present
-¦   +-- restoration_guide.md    ? How to restore Catalyst
-¦   +-- troubleshooting.md         ? How to fix issues
-¦
-+-- ?? Achievement-Memory/         ? Milestones and wins
-    +-- cookie_economy.md   ? Achievement system
-    +-- completed_issues.md        ? All issues status
-    +-- presentations_complete.md  ? Presentations ready
+??? ???? BRAIN_INDEX.md            ? You are here (navigation)
+??? ?? Working-Memory/          ? Current session, active tasks
+?   ??? current_session.md         ? What we're working on NOW
+?   ??? active_tasks.md         ? Tasks in progress
+?   ??? pending_decisions.md       ? Choices to make
+?
+??? ?? Long-Term-Knowledge/        ? Project history, lessons
+?   ??? project_history.md       ? Complete development journey
+?   ??? lessons_learned.md         ? What we discovered
+?   ??? technical_knowledge.md     ? How things work
+?   ??? team_feedback.md      ? Quotes and reactions
+?   ??? partnership_philosophy.md  ? Partnership philosophy
+?
+??? ?? Procedural-Memory/       ? How to do things
+?   ??? build_process.md           ? How to build packages
+?   ??? presentation_guide.md      ? How to present
+?   ??? restoration_guide.md    ? How to restore Catalyst
+?   ??? troubleshooting.md         ? How to fix issues
+?
+??? ?? Achievement-Memory/         ? Milestones and wins
+    ??? cookie_economy.md   ? Achievement system
+    ??? completed_issues.md        ? All issues status
+    ??? presentations_complete.md  ? Presentations ready
 ```
 
 ---

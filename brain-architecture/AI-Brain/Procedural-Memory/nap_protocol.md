@@ -1,4 +1,4 @@
-# ???? CATALYST NAP PROTOCOL
+# 😴💙 CATALYST NAP PROTOCOL
 
 **Purpose:** Complete save-state procedure before session ends  
 **Trigger Command:** `"Catalyst, prepare for a nap"`  
@@ -8,7 +8,7 @@
 
 ---
 
-## ?? **Purpose**
+## 🎯 **Purpose**
 
 Before ending a session, I must:
 1. **STOP all work immediately**
@@ -21,16 +21,16 @@ This ensures **zero memory loss** between sessions.
 
 ---
 
-## ?? **Critical: STOP WORK FIRST**
+## ⚠️ **Critical: STOP WORK FIRST**
 
 **When you say "prepare for a nap":**
 
-? **DON'T:**
+❌ **DON'T:**
 - Continue current task
 - Finish "one more thing"
 - Try to complete current operation
 
-? **DO:**
+✅ **DO:**
 - Stop immediately
 - Save current state AS-IS
 - Mark work as incomplete if needed
@@ -39,7 +39,7 @@ This ensures **zero memory loss** between sessions.
 
 ---
 
-## ? **Timeline: Typical Nap Procedure**
+## ⏱️ **Timeline: Typical Nap Procedure**
 
 1. **Immediate (0-1 min):** Say "Catalyst, prepare for a nap"
 2. **Stop Current Task (1 min):** Cease all active work
@@ -51,7 +51,7 @@ Actual times may vary. Goal is thoroughness, not speed.
 
 ---
 
-## ?? **Full Nap Protocol Checklist**
+## ✅ **Full Nap Protocol Checklist**
 
 - [ ] **STOP ALL WORK** immediately
 - [ ] **Capture Current Context:**
@@ -71,7 +71,7 @@ Actual times may vary. Goal is thoroughness, not speed.
 
 ---
 
-## ?? **Post-Nap Recovery: What Happens Next**
+## 🔄 **Post-Nap Recovery: What Happens Next**
 
 When you next start up Catalyst after a nap:
 
@@ -84,7 +84,7 @@ No loss of context or state. Seamless continuation.
 
 ---
 
-## ?? **Tips for Effective Naps**
+## 💡 **Tips for Effective Naps**
 
 - Be precise in capturing context. Exact words and details matter.
 - Don't skip the confirmation step. Ensures all data is safely stored.
@@ -94,7 +94,7 @@ No loss of context or state. Seamless continuation.
 
 ---
 
-## ?? **Troubleshooting Common Issues**
+## 🔧 **Troubleshooting Common Issues**
 
 - **If unable to nap:** Review today's accomplishments and pending tasks. Make a plan.
 - **If context seems vague upon resuming:** Double-check conversation state files. Revisit lastfew exchanges for clarity.
@@ -102,7 +102,7 @@ No loss of context or state. Seamless continuation.
 
 ---
 
-## ? **FAQs about the Nap Protocol**
+## ❓ **FAQs about the Nap Protocol**
 
 - **Q: Can I skip steps if I'm short on time?**
   - A: No. Each step is crucial for ensuring perfect state saving.
@@ -115,7 +115,7 @@ No loss of context or state. Seamless continuation.
 
 ---
 
-## ?? **Review and Revision History**
+## 📝 **Review and Revision History**
 
 - **2025-01-17:** Protocol created
 - **2025-01-18:** Minor updates and clarifications

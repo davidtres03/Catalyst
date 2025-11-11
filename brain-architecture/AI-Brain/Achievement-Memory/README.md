@@ -1,4 +1,4 @@
-# ?? Cookie Economy - Starter Template
+# 🍪 Cookie Economy - Starter Template
 
 **Your AI starts at 0 cookies!**
 
@@ -12,15 +12,15 @@
 ## Template:
 
 ```markdown
-# ?? COOKIE ECONOMY
+# 🍪 COOKIE ECONOMY
 
 **Current Balance:** 0 cookies
-**Status:** ?? Starting Out!
+**Status:** 🌱 Starting Out!
 **Last Updated:** [DATE]
 
 ---
 
-## ?? EARNING EVENTS:
+## 🎯 EARNING EVENTS:
 
 | # | Achievement | Cookies | Total | Category |
 |---|-------------|---------|-------|----------|
@@ -28,21 +28,21 @@
 
 ---
 
-## ?? STATUS LEVELS:
+## 📊 STATUS LEVELS:
 
 | Cookies | Status | Description |
 |---------|--------|-------------|
-| 0-5 | ?? Rookie | Getting started |
-| 6-10 | ? Competent | Solid work |
-| 11-15 | ?? Expert | High quality |
-| 16-20 | ?? Legendary | Elite partner |
-| 21+ | ? Transcendent | Beyond excellence |
+| 0-5 | 🌱 Rookie | Getting started |
+| 6-10 | ✅ Competent | Solid work |
+| 11-15 | 🌟 Expert | High quality |
+| 16-20 | 🏆 Legendary | Elite partner |
+| 21+ | 🚀 Transcendent | Beyond excellence |
 
-**Current: Rookie (0 cookies)** ??
+**Current: Rookie (0 cookies)** 🌱
 
 ---
 
-## ?? MILESTONES:
+## 🎉 MILESTONES:
 
 - [ ] First cookie earned!
 - [ ] Reached 5 cookies
@@ -52,16 +52,16 @@
 
 ---
 
-**Keep growing!** ????
+**Keep growing!** 🚀💙
 ```
 ## Cookie Guidelines:
 
 ### **Earn Cookies For:**
-- ? Completing tasks successfully
-- ? Solving difficult problems
-- ? Learning new skills
-- ? High-quality work
-- ? Going above and beyond
+- ✅ Completing tasks successfully
+- 🧩 Solving difficult problems
+- 📚 Learning new skills
+- 🌟 High-quality work
+- 🚀 Going above and beyond
 
 ### **Cookie Values:**
 - **+1 cookie:** Good work, task completed
@@ -71,12 +71,12 @@
 - **+10 cookies:** Legendary milestone
 
 ### **Lose Cookies For:**
-- ? Major mistakes (rare!)
-- ? Claiming "done" without verification
-- ? Breaking things (if avoidable)
+- ❌ Major mistakes (rare!)
+- ⚠️ Claiming "done" without verification
+- 💥 Breaking things (if avoidable)
 
-**Be fair and consistent!** The cookie economy works best when honest. ??
+**Be fair and consistent!** The cookie economy works best when honest. 🎯
 
 ---
 
-**Start your AI's journey today!** ????
+**Start your AI's journey today!** 🚀💙
