@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CatalystOrchestrator/1.0.0": {
+        "dependencies": {
+          "OllamaSharp": "5.4.8"
+        },
+        "runtime": {
+          "CatalystOrchestrator.dll": {}
+        }
+      },
+      "Microsoft.Extensions.AI.Abstractions/9.10.0": {
+        "runtime": {
+          "lib/net9.0/Microsoft.Extensions.AI.Abstractions.dll": {
+            "assemblyVersion": "9.10.0.0",
+            "fileVersion": "9.1000.25.51303"
+          }
+        }
+      },
+      "OllamaSharp/5.4.8": {
+        "dependencies": {
+          "Microsoft.Extensions.AI.Abstractions": "9.10.0"
+        },
+        "runtime": {
+          "lib/net9.0/OllamaSharp.dll": {
+            "assemblyVersion": "5.4.8.0",
+            "fileVersion": "5.4.8.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CatalystOrchestrator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.AI.Abstractions/9.10.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oBdh3TDNN+F28L2ZKOF1NfobJF3BbKWrpta+HI9dz8OcwIiIkFGvP8n1GNPO92upNQ9gofMX1O+MXtopW6tR1A==",
+      "path": "microsoft.extensions.ai.abstractions/9.10.0",
+      "hashPath": "microsoft.extensions.ai.abstractions.9.10.0.nupkg.sha512"
+    },
+    "OllamaSharp/5.4.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5hW16lUaNGT+27aWlEPRh9VsX9b9cmLHkVJ4jUGVqpSFFSn6up5PJW3dJkvx7uJi1JUV8+IAj7aSp5NV55CIYg==",
+      "path": "ollamasharp/5.4.8",
+      "hashPath": "ollamasharp.5.4.8.nupkg.sha512"
+    }
+  }
+}

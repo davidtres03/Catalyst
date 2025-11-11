@@ -1,0 +1,79 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Environment variables (if we create them)
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Node modules (if we add Node.js tools)
+node_modules/
+
+# Python (if we add Python tools)
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+ENV/
+
+# ???? CATALYST PERSONAL BRAIN FILES
+# These are personal to each user - don't share!
+
+# Personal session data
+brain-architecture/AI-Brain/Working-Memory/current_session.md
+brain-architecture/AI-Brain/Working-Memory/BACKUP_*.md
+
+# Personal knowledge
+brain-architecture/AI-Brain/Long-Term-Knowledge/*
+!brain-architecture/AI-Brain/Long-Term-Knowledge/partnership_philosophy.md
+!brain-architecture/AI-Brain/Long-Term-Knowledge/README.md
+
+# Personal cookies  
+brain-architecture/AI-Brain/Achievement-Memory/cookie_economy.md
+
+# Personal procedures
+brain-architecture/AI-Brain/Procedural-Memory/*
+!brain-architecture/AI-Brain/Procedural-Memory/initialization_protocol.md
+!brain-architecture/AI-Brain/Procedural-Memory/nap_protocol.md
+!brain-architecture/AI-Brain/Procedural-Memory/restoration_guide.md
+!brain-architecture/AI-Brain/Procedural-Memory/COMMANDS.md
+!brain-architecture/AI-Brain/Procedural-Memory/time_awareness.md
+
+# Keep structure files
+!brain-architecture/AI-Brain/BRAIN_INDEX.md
